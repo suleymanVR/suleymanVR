@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Autogen,Langchain**
 
-- 📝In my free time, I write articles. [https://medium.com/@suleymanvr](https://medium.com/@suleymanvr)
+- 📝 In my free time, I write articles. [https://medium.com/@suleymanvr](https://medium.com/@suleymanvr)
 
 - 💬 Ask me about **AI Agents and AI Technologies**
 
