@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI Agents and AI Technologies**
 
-- 📫 How to reach me **suleyman@mamentis.ai**
+- 📫 How to reach me **suleymanvar@outlook.com.tr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/suleymanvar/](https://www.linkedin.com/in/suleymanvar/)
 
